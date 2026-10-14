@@ -4,8 +4,8 @@ Guidance for AI coding agents working in this repository. See `README.md` for wh
 
 ## Workflow
 
-- Every piece of work maps to a GitHub issue. Read the issue (`gh issue view <N>`) before starting, and stay within its scope. If something outside the issue needs doing, note it rather than doing it.
-- Reference the issue in every commit message: `Refs #N`. The commit that completes the issue uses `Closes #N`.
+- The study plan isn't tracked in GitHub issues. Work from the task you're given and stay within its scope. If something outside it needs doing, note it rather than doing it.
+- Larger experiments built by an agent may get their own GitHub issue. If yours has one, read it first (`gh issue view <N>`), use `Refs #N` in commits and `Closes #N` in the one that finishes it.
 - Make small, focused commits on `main` and push them.
 - When a step needs a human (taking a course, creating accounts or API keys, confirming a choice), stop and ask instead of guessing.
 - Notes record what Terence learned. Don't write course takeaways on Terence's behalf; help organise, explain or check them when asked.

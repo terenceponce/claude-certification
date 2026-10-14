@@ -9,7 +9,7 @@ My notes and experiments while studying for the **Claude Certified Architect –
 
 ## Study plan
 
-Work is tracked in [GitHub Issues](https://github.com/terenceponce/claude-certification/issues):
+In order:
 
 1. Introduction to Agent Skills
 2. Claude with the Anthropic API
