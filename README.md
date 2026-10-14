@@ -16,6 +16,7 @@ In order:
 3. Introduction to Model Context Protocol
 4. Claude Code in Action
 5. Claude Code docs and videos
+6. Claude Agent SDK: the Introduction to subagents course, the [Agent SDK docs](https://code.claude.com/docs/en/agent-sdk/overview) and a hands-on exercise
 
 ## Layout
 
